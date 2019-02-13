@@ -1,0 +1,45 @@
+{
+  "name": "Pastile",
+  "short_name": "pastile",
+  "icons": [
+    {
+      "src": "/static/img/icons/pwa-pills-app-icon.png",
+      "sizes": "990x990",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=16&h=16",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=32&h=32",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=128&h=128",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=256&h=256",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=512&h=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://images.weserv.nl/?url=https://uploads.codesandbox.io/uploads/user/860ead79-0009-4a5d-9d05-a402ccf8a003/nyqY-pwa-pills-app-icon.png&w=1024&h=1024",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#48abf2"
+}
